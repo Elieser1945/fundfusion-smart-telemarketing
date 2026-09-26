@@ -59,7 +59,7 @@ Jika Anda ingin menjalankan proyek ini di mesin lokal, ikuti langkah-langkah ber
 
 1. **Clone repositori ini:**
    ```bash
-   git clone https://github.com/USERNAME_ANDA/fundfusion-smart-telemarketing.git
+   git clone https://github.com/Elieser1945/fundfusion-smart-telemarketing.git
    cd fundfusion-smart-telemarketing
    ```
 
